@@ -1,0 +1,3 @@
+interface colores {
+  void display();
+}
